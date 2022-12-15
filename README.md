@@ -1,4 +1,4 @@
-![logo](https://github.com/Kenna-Tefera/Kenna-Tefera/blob/main/programming%20evolution.jpg)
+![logo](https://github.com/Kenna-Tefera/Kenna-Tefera/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Kenna Tefera</h1>
 <h3 align="center">A Software Engineering Student at AAiT and Front End Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
