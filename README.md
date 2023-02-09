@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kenna-tefera-94b2b4231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenna-tefera-94b2b4231" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kenna-tefera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kenna-tefera" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/annatefera3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/annatefera3" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/annatefera3(https://www.hackerrank.com/annatefera3)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/annatefera3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
